@@ -1,5 +1,5 @@
-## Quarter 2 of 2017 feedback for Chris Creel
-__*Summary Score for Chris Creel: 94.58*__
+## Quarter 2 of 2017 feedback for Chris creel
+__*Summary Score for Chris creel: 94.58*__
 
 |Topic|Score|Raters|
 |:---|---:|---:|
