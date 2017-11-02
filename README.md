@@ -9,8 +9,6 @@ __*Summary Score for Chris Creel: 94.12*__
 |**Contribution**|100.00|4|
 
 
-__*Average for the last year : 93.71*__
-
 
 
 ## Summary of social interactions
