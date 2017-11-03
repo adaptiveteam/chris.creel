@@ -15,9 +15,9 @@ __*Average for the last year : 93.96*__
 
 ## Summary of social interactions
 
-   * Almost conversations were effortless.
+   * Almost all conversations were effortless.
    * Almost all conversation were highly productive.
-   * Conversations occured continuously
+   * Almost all    conversations occured continuously
 
 ## Coaching advice
 ### Skill
