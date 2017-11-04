@@ -12,10 +12,10 @@ __*Summary Score for Chris Creel: 93.17*__
 ## Annual Analysis
 |Measure|Value|
 |:---|---:|
-|__Average__|93.96|
-|__Slope__|-0.00|
-|__Variance__|174.22|
-|__Intercept__|94.11|
+|__Average__|93.9645|
+|__Slope__|-0.0017|
+|__Variance__|174.2236|
+|__Intercept__|94.1065|
 
 
 
