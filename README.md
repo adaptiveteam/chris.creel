@@ -64,7 +64,7 @@
    * Almost all conversations were effortless.
    * Almost all conversation were highly productive.
    * Almost all conversations occured continuously
-   * Your comments were mostly positive and were mostly subjective
+   * Your comments were mostly positive (0.20) and were mostly subjective (0.55)
 
 ## Social advice
 ### Energy
