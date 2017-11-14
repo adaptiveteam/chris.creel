@@ -5,7 +5,7 @@
 |**Productivity**|92.00|10|
 |**Reliability**|98.00|10|
 |**Contribution**|92.00|10|
-|__**Summary**__|__**93.17**__||
+|_*Summary*_|_*93.17*_||
 
 ## Annual Analysis
 |Measure|Value|
