@@ -64,8 +64,8 @@
    * Almost all conversations were effortless.
    * Almost all conversation were highly productive.
    * Almost all conversations occured continuously
-   * Your comments were 0.00
-   * Your comments were 0.00
+   * Your comments were 3.00
+   * Your comments were 3.00
 
 ## Social advice
 ### Energy
