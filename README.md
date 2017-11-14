@@ -5,7 +5,7 @@
 |**Productivity**|92.00|10|
 |**Reliability**|98.00|10|
 |**Contribution**|92.00|10|
-|_*Summary*_|_*93.17*_||
+|__*Summary*__|_*93.17*_||
 
 ## Annual Analysis
 |Measure|Value|
@@ -64,7 +64,7 @@
    * Almost all conversations were effortless.
    * Almost all conversation were highly productive.
    * Almost all conversations occured continuously
-   * Your comments were somewhat positive (0.20) and were somewhat subjective (0.55)
+   * Your comments were somewhat positive and were somewhat subjective
 
 ## Social advice
 ### Energy
