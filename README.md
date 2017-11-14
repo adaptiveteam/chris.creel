@@ -1,13 +1,11 @@
 ## Quarter 3 of 2017 feedback for Chris Creel
-__*Summary Score for Chris Creel: 93.17*__
-
 |Topic|Score|Raters|
 |:---|---:|---:|
 |**Skill**|90.91|11|
 |**Productivity**|92.00|10|
 |**Reliability**|98.00|10|
 |**Contribution**|92.00|10|
-
+|Summary|93.1707317073||
 
 ## Annual Analysis
 |Measure|Value|
@@ -16,14 +14,6 @@ __*Summary Score for Chris Creel: 93.17*__
 |__Slope__|-0.0017|
 |__Variance__|174.2236|
 |__Intercept__|94.1065|
-
-
-
-## Summary of social interactions
-
-   * Almost all conversations were effortless.
-   * Almost all conversation were highly productive.
-   * Almost all    conversations occured continuously
 
 ## Coaching advice
 ### Skill
@@ -58,3 +48,44 @@ __*Summary Score for Chris Creel: 93.17*__
 5) Chris keeps us working, and blasts obstacles out of the way. Without his reminders on coaching goals, I wouldn't have completed some of the personal growth this quarter
 6) Chris really stepped up this quarter to drive meaningful team decisions -- in some cases, by delegation. He enforced decisions when necessary, and I appreciate that.
 7) Chris brings value in our culture although empowerment of others can be biased. He continues to ignore or miss the impact of positional power. It can activate the pleaser in some and can cause challenges with independent thinking of some.
+
+
+## Social Analysis|Topic|Score|Raters|
+|:---|---:|---:|
+|**Energy**|91.67|12|
+|**Results**|88.00|10|
+|**Frequency**|86.00|10|
+|Summary|93.1707317073||
+
+
+## Summary of social interactions
+
+   * Almost all conversations were effortless.
+   * Almost all conversation were highly productive.
+   * Almost all conversations occured continuously
+   * Sentiment polarity was 0.0
+   * Sentiment subjectivity was 0.0
+
+## Social advice
+### Energy
+1) Chris continues insist that the manner in which we use github line up with his design of rat-thing. This continues to be a difficult spot for me. I now create separate offline lists and tracking mechanisms for items I'd normally just track in github, but if I do so now I will get questioned about daily.
+2) I understand that you are really busy, but I would encourage you to have ongoing and open communication with solution owners, especially when you sign them up for stuff:)
+3) Very energetic for the the aspects of work, specially as coach
+4) Your energy was high all quarter and you seemed to manage stress well with what was clear managing that DMZ between our team and others
+5) I'm still worried about Chris' time AFK (or lack thereof). I see him go running sometimes so am hopeful.
+6) Chris is easy to talk to. I feel like there is a lot on his mind, because I would sometimes hear the same thing on multiple calls, or have to remind abotu a previous conversation
+7) Conversations with Chris one on one are pretty productive. He is a good listener, enthusiastic about change, and always trying to predict. In group settings, his agenda can mute others input on occasion.
+8) You are always looking for incremental, innovative ways to make us a better team. I really appreciate all of your energy and the time you give to Rat Thing, Coach Bot, (and likely many other things behind the scenes). They really make a difference in how we work and communicate.
+9) Chris keeps conversations on track and productive, while giving everyone the space to speak.
+### Results
+1) Repeating: Chris' unique perspective and willingness to share knowledge give me frequent insight into the business goals and help keep alignment.
+2) Interactions are fruitful
+3) Conversations always had useful outcomes, but they were often focused on 6-12 months into the future even when asking about the near-term
+4) Chris suggested that Watson create a new CotivitiService implementation in an attempt to solve problems brought up in Atlanta. This decision was based on a misunderstanding of the issues and led to several developers spending much of the quarter working on a new project which didn't solve any existing problems. Making matters worse, at the end of the quarter the new project which was supposed to make things easier and better isn't even feature complete enough to be used. As one of Chris's primary roles is facilitator, this was a major failing.
+5) I would like to see more focus on doing what we are supposed to do (or rather what we have promised) than doing new stuff. I was very happy with progress and focus on clean fuel work. I was disdisappointed with the latency in integrating the disparate parts.
+6) Chris's efforts have created this unique team space - surely the most unique collaborative space I have been part of in the whole of my career.  His ability to maintain this kind of environment in the face of challenges is something deeply admirable.
+7) This was a highly productive quarter for you and was shown in the team.
+### Frequency
+1) I'm only occasionally waiting on Chris.
+2) Chris and I managed to connect regularly and the frequency was pretty good.
+3) I spoke with Chris at least once a week
