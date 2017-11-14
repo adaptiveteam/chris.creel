@@ -64,8 +64,8 @@
    * Almost all conversations were effortless.
    * Almost all conversation were highly productive.
    * Almost all conversations occured continuously
-   * Sentiment polarity was 0.20
-   * Sentiment subjectivity was 0.55
+   * Sentiment polarity for all comments was 3.00
+   * Sentiment subjectivity for all comments was 3.00
 
 ## Social advice
 ### Energy
