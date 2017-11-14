@@ -5,7 +5,7 @@
 |**Productivity**|92.00|10|
 |**Reliability**|98.00|10|
 |**Contribution**|92.00|10|
-|Summary|93.1707317073||
+|__**Summary**__|__**93.17**__||
 
 ## Annual Analysis
 |Measure|Value|
@@ -55,7 +55,7 @@
 |**Energy**|91.67|12|
 |**Results**|88.00|10|
 |**Frequency**|86.00|10|
-|Summary|93.1707317073||
+|__**Summary**__|__**93.17**__||
 
 
 ## Summary of social interactions
