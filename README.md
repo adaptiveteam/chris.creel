@@ -50,12 +50,13 @@
 7) Chris brings value in our culture although empowerment of others can be biased. He continues to ignore or miss the impact of positional power. It can activate the pleaser in some and can cause challenges with independent thinking of some.
 
 
-## Social Analysis|Topic|Score|Raters|
+## Social Analysis
+|Topic|Score|Raters|
 |:---|---:|---:|
 |**Energy**|91.67|12|
 |**Results**|88.00|10|
 |**Frequency**|86.00|10|
-|__**Summary**__|__**93.17**__||
+
 
 
 ## Summary of social interactions
