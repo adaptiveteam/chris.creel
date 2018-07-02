@@ -1,95 +1,110 @@
-## Quarter 1 of 2018 feedback for Chris Creel
+## Quarter 2 of 2018 feedback for Chris Creel
 |Topic|Score|Raters|
 |:---|---:|---:|
-|**Skill**|96.36|11|
-|**Productivity**|96.36|11|
-|**Reliability**|94.55|11|
-|**Contribution**|98.18|11|
-|__*Summary*__|_*96.36*_||
+|**Skill**|96.00|10|
+|**Productivity**|100.00|10|
+|**Reliability**|96.00|10|
+|**Contribution**|92.00|10|
+|__*Summary*__|_*96.00*_||
 
 ## Annual Analysis
 |Measure|Value|
 |:---|---:|
-|__Average__|95.6164|
-|__Slope__|0.0043|
-|__Variance__|79.4145|
-|__Intercept__|95.4609|
+|__Average__|95.5556|
+|__Slope__|0.0120|
+|__Variance__|96.4862|
+|__Intercept__|94.8602|
 
 ## Coaching advice
 ### Skill
-1) Chris did great as a coach for the team with recommending the book for the quarter and pressing on MBIs.  This next quarter, I'd like to see Chris align better with the monitoring of MBIs.  He seemed surprised at the end of the quarter.
-2) I'm satisfied with Chris' work with paperwork and the executive team, but I'd like to see him partner with a DevOps team member next quarter to consider continuous reliable delivery of future bot solutions.
-3) - As a coach, Chris ensured that we always focused on getting business value out of the work we did. This helped us prioritize the issues better and start working on the ones that provided business value with least risk
-- Chris helped us properly analyzing the risk and prioritize the issues accordingly. He always insisted on providing update on the MBIs in all hands calls. Chris also enabled Pepper to pester the issue creators if they don't have priority and risk specified
-- Chris also created channels specifically to broadcast updates to the team so we don't miss them with our work
-4) his teaming effort and communicating to the right person to finish of the things are amazing
-5) I thought your terraform code for the coach bot automation was both ambitious and well implemented.
-6) Chris stepped up in a big way this quarter, with helping us find better focus through MBIs. We are a well-meaning group that can get distracted by wanting to solve too many problems at once. Having the MBIs broken down into specific tasks, and getting people to be on point for them, really made this quarter more successful. It helped all of us in focusing and prioritizing our work.
-7) Chris Creel is good at interacting with people outside of the team. 
-8) Chris Learnt Lambda and various technologies around it, and we are all using Pepper for everyday work, it's just great.
-He is always trying to learn new languages whether its Hindi, Russian, Swiss , Chinese  and he should get credit for this as well because it eases the tense environment and helps to bond better when you have a team across the globe.
-9) Chris has solid skills as a team coach and mentor.
-10) Chris is obviously working hard on building alliances for the team and raising our team's value to the company as a whole.  I'm glad we're moving in this direction and I hope this work continues.
+1) Creel is on the critical path between the larger parts of Cotiviti and our team.
+2) - Chris was very effective as a coach. He always ensured we were focused on this quarter's MBIs
+- Chris communicates with the team effortlessly
+- Chris was very good at setting priorities
+- Chris works at a good speed. He developed a newer architecture with a working prototype of the entire system
+- Chris has been very effective at managing delivery risk
+3) Chris was an excellent coach this quarter; he not only helped me form well-defined intentional goals but also gave me multiple tips on how to achieve those goals. He also kept us in the loop on important news going on in the company.
+4) The points of interaction, especially around Hiro have shown your skill and passion to creating the best darned policy execution environment on the face of the planet.  It is exciting to see your progress and passion and look forward to our journey towards using Hiro.
+5) Awesome work this quarter. I would like to suggest that you should look out for more opportunities to be started as initiatives/experiments in labs.
+6) Chris has demonstrated taking us to the next level with the lambda architecture.  That said, I think the speed at which he came to conclusions on value short circuits sharing ownership.  This next quarter, I'd recommend finding opportunities to share ownership and victories.
+7) While only having the opportunity to work with you for a couple of months, it is clear that you have great organizational skills and focus, as demonstrated by the relative speed you got our new team up and running with GitHub, Pepper, ZenHub, and CoachBot.
+8) Chris started additional efforts outside the process. This is something we have struggled with as a team, although it seems necessary in the R&D environment. I would say this added to delivery risk for our other commitments. Chris' skills are grand.
+
+In the future, let's get an MBI/OKR for the new work!
 ### Productivity
-1) - Pepper is better than ever. Bugs have been addressed with this and now there are terraform scripts to deploy Pepper automatically
-- Coach bot has been upgraded to help accelerate team members provide more effective feedback in a faster way. S3 forms was an awesome feature
-2) Chris helped me bring a result about several times.  Mostly his efforts were just parallel to my own, and that helped.
-3) Chris brought the team to Atlanta to kick off the elephantv2 initiative, and I'm pleased with this. His overall strategic planning this quarter made enormous improvements.
-4) Chris was very supportive and also very productive. He reworked several tools and processes, pushed on the patents and even attended leadership!
-5) Chris influences us all in ways to increase our productivity.  However, over the next quarter, I hope that Chris will manage his expectations better about how quickly the team to produce results.
-6) Chris pushed on MBIs, coaching, and aligning Labs with Digital.  He gave it his all all quarter.  In these exercises, it seemed like Chris was taking a lot on his own shoulders and it seemed to his stress points with him.  Spread the responsibilities.
-7) mostly he is able to throw in right resources and provide valuable inputs to produce desired result
-8) Chris never wastes time, he is very productive and it's also because he is exactly doing the things that he loves to do.
+1) You are quickly responsive when I have a question, which is always appreciated.  This has allowed me to become "unblocked" from moving ahead in my tasks (issues) such as getting GitHub going, or has brought me to a new understanding of a process or philosophy which likewise enhances my performance (No Optimism, Fear Rules, Humans suck at estimating time). 
+2) Chris did a tremendous amount of work this quarter! His coaching with the Content team was fantastic. I think he helped our productivity through direct execution and productive behaviors regarding the board.  Thank you Chris!
+
+Please keep helping the content team next quarter!
+3) Probably too much assigned to him; he should consider re-evaluating his workload and delegating where applicable.
+4) - Chris developed a lambda architecture for hiro, that could potentially solve many of the issues which we are facing currently
+- He got this architecture to a phase where it's able to run with stubbed out data
+- Coach bot was rolled to the rest of the company. He played a crucial role in this
+5) Clearly you have been producing like crazy.  Whether it be in releases of Hiro, your new book deal, continued engagement with CoachBot, engagement with AWS / Dave Hsu on cloud strategy, or evaluation of slack / teams, you have been amazingly productive.
+6) Chris works on many different fronts.  I'm concerned at times how he balances the work he does with life, but it works for him.  Keep rocking.
+7) Chris did a lot of great work in pushing CoachBot out to a wider company audience this quarter.
 ### Reliability
-1) Chris was on time with all coaching meetings.  I appreciated the effort and time put aside for these discussions
-2) Chris followed through on his commitments to me, but I'm never certain he will take the time to communicate dependencies to internal team members reliably. In future quarters I'd like to see (during meetings) Chris ask a team member to update the team on a dependent or future-work piece rather than the 'it's just' hand-wave.
-3) Chris followed through with our commitments for the quarter very effectively
-4) Chris was very reliable in driving delivery. 
-5) - Chris follows up with all the commitments. He was always available to talk about literally anything
-- He took feedback from users about pepper and coach bots and quickly incorporated them
-6) I love Chris' enthusiasm, but his excitement sometimes causes him to speak (or celebrate) too soon. He should think about holding back a bit in what he communicates and when. Staying focused on the messaging around MBIs and just delivering on those, will keep us out of over-promising.  
-7) Chris not only followed through on his own commitments but also stayed very close to the MBI process and made sure the team could hit those targets.
-8) very few or rare instances when did not hear back from him
-9) Very Reliable, he is the driving force behind all the good work that we do.
+1) You have been proactive in getting work done and anticipating discussions around collaboration tools, cloud strategy,  and policy execution.  Your discipline around pushing these items forward, especially the Hiro and cloud work will benefit us enormously as we will need both in the coming quarter.
+2) Chris kept all of his coaching commitments to me this quarter, as well as his commitments to CoachBot.
+3) - Chris was reliable and followed through commitments
+- Chris developed a working prototype of the new lambda architecture. This enables us to more productive conversations about how we can leverage that to solve the current problems
+4) Honestly you were very responsive to our needs as a team - if we needed ZenHub updated, you did it.  You tend to take immediate action rather than put things off till later (in my experience) which is a value I share and which sets a great precedent for all of those who work with you. 
+5) I had no issues with Chris' reliability.  He is reliably Chris.
+6) Occasionally slow to respond but once you have his attention he solves the problem.
 ### Contribution
-1) Chris pushed hard to engage digital team. He works tirelessly to maintain coach bot and other tools to helps the team stay on top of their game.
-2) I can't overstate Chris' work this quarter on enforcing our team culture. Awesome!
-3) This was a big learning quarter around MBIs. Chris always stepped in where MBIs were in danger to offer contributions to push back on track.
-4) many times he follows up tirelessly outside the team to get something done that's blocking things  
-5) The entire team has a positive energy.  I attribute this to two things: the book for the entire team and stability of team changes on initiatives.  I recommend looking for similar opportunities each quarter.
-6) I love the time Chris takes to develop new tools for the team, like Coach Bot, the agenda features for meetings, and RAT THING (which should always be known as RAT THING, dammit). He has a very unique skill set in this regard. These are tools that make managing and prioritizing daily work easier and just less boring and gross. I don't know of any solutions outside of Labs that exist for these services. They should be shared with the universe, and the universe will declare them as awesome.
-7) - Chris is always there to empower other team members. If he sees that someone is needs help, he asks for others if we can help them. With new team members, Chris ensures that they have what they need and redirects them to appropriate person
-- Chris has always reinforced our culture, which is now being embraced by other parts of the company
-- He ensures we have documentation around the processes and practices and we now have moodle courses to help others get familiar with our culture
+1) Great contributions on many fronts.  I like the Lambda Architecture although it is frought with risk. Can't say enough about supporting the expansion of the coaching and feedback model. It's awesome. 
+
+We need your continued support. Thank you for the positive energy and welcoming attitude to the new team members!
+2) Dangerous exploration and failing fast is a great technique, but not for the wind-down quarter of a production system. Consider the consequences of your experimentation and do so with clear purpose.
+3) Chris tracks each of the teams to make certain that they're heading in strategically valuable locations; course corrections, when they occur, prove to be immensely useful in getting the team back on track.
+4) I feel that you have, as a coach, guided the team well and taught me a lot, both directly (training sessions) and indirectly (observing you do your thing). Your enthusiasm for this team's existence and the warm welcome we received, even if we are not software developers in the classic sense, is much appreciated.   Most of all I feel "psychologically safe" on this team and that has a lot to do with you, and it is one of my most valued attributes.
+5) - Chris rolled out coach bot to the rest of the company, that is huge
+- Chris developed a new lambda architecture prototype
+- Being my coach this quarter, Chris always provided right direction when I was stuck with something. When I was doing some GPU research this quarter, I was spending time to see if we can run the entire reason compiler as a whole with GPUs. Chris suggested that I should try with a smaller example first and see if we can actually leverage GPUs for this scenario. That suggestion led to a conclusion about that research
+- When we were being bogged down issues with production regularly, Chris took an initiative on his own to get a new architecture that could solve many of the problems we were facing
+6) At times, it felt like credit was not always given appropriately during the quarter.  This was not intentional, but has an impact in a team that celebrates success.  Try to ensure that everybody involved is able to share in group victories.
+7) As mentioned above, you have been making great strides in continuing to enhance Hiro, while pushing forward in many areas including our cloud strategy, employee engagement and collaboration.
 
 
 ## Social Analysis
 |Topic|Score|Raters|
 |:---|---:|---:|
-|**Energy**|97.50|8|
-|**Improvement**|73.33|6|
-|**Frequency**|67.27|11|
+|**Energy**|96.00|10|
+|**Improvement**|90.00|6|
+|**Frequency**|74.00|10|
 
 
 
 ## Summary of social interactions
 
    * Almost all conversations were effortless.
-   * Performance improved a little.z
+   * Performance improved a lot.
    * Conversations occured daily.
-   * Your comments were somewhat positive and were with a mix of subjectivity and objectivity
+   * Your comments were somewhat positive and were somewhat subjective
 
 ## Social advice
 ### Energy
-1) Many challenges this quarter. I think Chris handled them pretty well. Despite some very challenging feedback, he pushed don and kept his energy high. 
-2) Conversations with Chris are always energizing. Except once in a while before he has a meeting with suits .
-3) It can be challenging to determine what and why of our direction.  The MBI process seems to be an improvement over previous tries, but it remains to be seen if there will be any significant change internally or with the rest of the organization.
-4) There are unconfirmed reports that Chris drank a cup of coffee this quarter, and the resulting energy was enough to power a small city.
-5) Chris has great energy levels, I always feel energized after talking to him. He is one person who made me believe in myself when i was going through a really tough phase in my life. He did not give up on me, I was about to ruin my career but his faith and belief in me brought me back. You transformed me Chris. I will always be grateful to you all my life. I wish there were more people like you and you are not arrogant and I don't know who thinks that way, you are one of the most kind person I have ever met. 
+1) Chris has had a LOT of positive energy this quarter.  Keep it up this next quarter.
+2) Great energy levels. 
+Chris I don't know which block to add this comment but i need to say this please hire project manager or someone like Gayla who can go through all MBI's and is responsible for keeping track of progress of each issue. It depletes all my energy worrying about updating those issues. And specially when you pinged someone and the other person still could not find time to update their issues, oh god its painful, because it reflects poorly on you. I want to write good programs and not run behind people asking them to do what they should do on their own and with pepper's help.
+Reading "triggers book" was not fun because of the same monotonous advices, I understand there was lot of value in what we read, but we could have read something else for this quarter or may be by some other author to bring some diversity and fun. 
+3) I can't ding Chris on energy. He had some rough days this quarter and many challenges with his expectations vs. leadership. Despite this, he maintained a supportive attitude and worked with me when we needed to to stay focus and trust. Great quarter for him overall. It was a little expensive though emotionally.
+
+You found some good times to share and garner some assurance. Make sure you keep doing that. It is critical.
+4) Chris was my coach this quarter and after coaching meetings, I always felt inspired and energized.
+5) My interactions with you have always been positive which does not mean that you don't correct me or disagree with me.  I prefer candor and honesty and you seem to have that in spades.  You know when it is time expound (explaining the philosophy of real agile) as well as when to opt for brevity (pepper agenda) and I enjoy working with you so far.
+6) - I had many productive conversations with Chris this quarter, all of them were productive and knowledgable
+- I walked away energized from these conversations, with better understanding and new ideas
+- Discussions are quick and productive. I don't hesitate to talk to him if I need something
+7) our meetings are always thought provoking and incredible valuable.  Their lack of frequency tends to make them more of an event than I would like them to be.  It seems to take more energy to get into the dialogue than it should but once we get into the conversation, they become much easier.  I feel that these conversations will take less energy as we meet more frequently and as we work collectively to migrate to a common path.
 ### Improvement
-1) Much improvement this quarter spread through my other comments, but I wanted to especially call-out the 'let's do it the boring way' attitude he brought to elephantv2. That's a monumental improvement, and I do not use that imagery lightly. Excellent!
+1) This is probably more me and my perspective than anything else but I feel that we are turning a critical corner.  I believe that we have all toiled to the point where we can start to use Hiro and other Labs capabilities to start really driving value.  I think it will be valuable for you and me to discuss this journey that we have been on and continue to go on we become more aligned.
+2) It's hard to define improvement for Chris since he sets the pace for the team and is thus usually the measure.  However, he did up his game with the lambda architecture this quarter.
+3) ...because I did not know you before! Everything is up from nothing in this case.  I wish I could find a STAR/AR for you - maybe next time.
 ### Frequency
-1) We talk few times a week and as in required
-2) I spoke with Chris on a fairly frequent basis this quarter.
-3) Chris, a great thank you for the team and the culture that you have built, its amazing how we feel motivated to do some thing every day. This global team thing is very useful;  we usually don't have a huge team sitting around us hence less distractions and more focus on our work and zoom is great for collaboration. Thank you for not making logistics a huge issue as it is in most other companies.  Last but not the least thankyou for Pepper :)
-4) We fell short on our frequency but finished strong.
+1) - We met at least once every week, to talk about the progress of personal improvement objectives and other issues when required
+- This helped me to progress on the issues by moving in the right direction
+2) We should interact more than this.  It is a miss, and it is on me.
+3) We met a little less than last quarter. It was due to me, not a limit on Chris' end
+4) Chris and I interacted at an expected frequency this quarter.
+5) While primarily in the biweekly pepper sessions, we have had the opportunity to converse in Slack, and benefit from various topic-oriented coaching and trainings, All-Hands meetings, etc.  Considering how packed your calendar is, I feel honored!
