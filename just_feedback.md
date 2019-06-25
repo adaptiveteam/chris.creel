@@ -25,7 +25,7 @@ You always have a solution to our problems. You are the person we look up on whe
 Conversations with Chris this quarter were great.  He seemed to find a peace about what he had done, what the team had done, and what we were doing.  This seemed to result in peace around the team.  Keep this frame of mind going forward.
 Our conversations are always targeted and productive. You have a sharp mind and it's always a pleasure talking to you.
 Conversations were productive and very knowledgable and lead to actionable items
-- During one of the conversations this quarter, we were talking about integrating VPC. When we came across something which we did not understand fully, after discussing with Chris we decided to contact AWS support and that lead to the resolution of the issue.
+During one of the conversations this quarter, we were talking about integrating VPC. When we came across something which we did not understand fully, after discussing with Chris we decided to contact AWS support and that lead to the resolution of the issue.
 Chris was positive throughout the quarter despite a lot of challenges.  I was pleasantly surprised at his objectivity given the loss of key leadership. He was not a sour grape, which many others were. He was supportive and it was refreshing and needed by the whole team.
 I want to thank you for the time investment you gave to me this quarter
 While not always face to face we interacted multiple times per week via slack.
